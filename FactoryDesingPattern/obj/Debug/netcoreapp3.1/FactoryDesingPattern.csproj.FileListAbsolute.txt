@@ -1,0 +1,13 @@
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.exe
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.deps.json
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.runtimeconfig.json
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.runtimeconfig.dev.json
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.dll
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.pdb
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.csprojAssemblyReference.cache
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.AssemblyInfoInputs.cache
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.AssemblyInfo.cs
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.dll
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.pdb
+C:\Users\Anoop Kumar\source\repos\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.genruntimeconfig.cache
